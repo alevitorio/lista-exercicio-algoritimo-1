@@ -63,7 +63,7 @@
 
 ### 9. **Cálculo do Perímetro de um Retângulo** 📐
 - **Entrada:** Dois números representando a largura e a altura do retângulo.
-- **Processo:** Calcula o perímetro \(P = 2 \times (largura + altura)\).
+- **Processo:** Calcula o perímetro 
 - **Saída:** Exibe o valor do perímetro.
 
 ---
@@ -93,7 +93,7 @@
 
 ### 13. **Conversão de Graus Celsius para Fahrenheit** 🌡️
 - **Entrada:** Temperatura em graus Celsius.
-- **Processo:** Converte a temperatura para Fahrenheit \(F = (C \times 9/5) + 32\).
+- **Processo:** Converte a temperatura para Fahrenheit \(F = (C * 9/5) + 32\).
 - **Saída:** Exibe a temperatura em Fahrenheit.
 
 ---
